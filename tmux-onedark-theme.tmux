@@ -1,5 +1,5 @@
 #!/bin/bash
-onedark_black="#282c34"
+onedark_black="#000000"
 onedark_blue="#61afef"
 onedark_yellow="#e5c07b"
 onedark_red="#e06c75"
